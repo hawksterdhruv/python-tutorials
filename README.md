@@ -26,50 +26,36 @@
 
 3. After this please  add the following lines to ~/.bashrc
 
-<table>
-  <tr>
-    <td>alias python38="python3.8"
-alias pip38="python3.8 -m pip "</td>
-  </tr>
-</table>
+`alias python38="python3.8"
+alias pip38="python3.8 -m pip "`
 
 
 4. Then run the following commands on your terminal
 
-<table>
-  <tr>
-    <td>$ source ~/.bashrc
-$ pip38 install jupyter virtualenv</td>
-  </tr>
-</table>
+`$ source ~/.bashrc
+$ pip38 install jupyter virtualenv`
 
 
-<table>
-  <tr>
-    <td>$ sudo dpkg --install --force all /var/cache/apt/archives/python3.8-lib2to3_3.8.0-1+bionic2_all.deb
-$ sudo dpkg --install --force all /var/cache/apt/archives/python3.8-distutils_3.8.0-1+bionic2_all.deb</td>
-  </tr>
-</table>
+`$ sudo dpkg --install --force all /var/cache/apt/archives/python3.8-lib2to3_3.8.0-1+bionic2_all.deb
+$ sudo dpkg --install --force all /var/cache/apt/archives/python3.8-distutils_3.8.0-1+bionic2_all.deb`
 
 
 ## IDE Installation
 
 ### Jupyter
 
-<table>
-  <tr>
-    <td>$ pip38 install jupyter</td>
-  </tr>
-</table>
+#### linux
+
+`$ pip38 install jupyter`
+
+#### windows
+`$ python3 -m pip install --upgrade pip
+$ python3 -m pip install jupyter`
 
 
 ### Starting Jupyter
 
-<table>
-  <tr>
-    <td>$ jupyter notebook</td>
-  </tr>
-</table>
+`$ jupyter notebook`
 
 
 ### PyCharm
