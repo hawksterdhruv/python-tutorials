@@ -6,11 +6,11 @@
 
 1. Please follow the instructions in the following blog.
 
-[https://phoenixnap.com/kb/how-to-install-python-3-windows](https://phoenixnap.com/kb/how-to-install-python-3-windows)
+    [https://phoenixnap.com/kb/how-to-install-python-3-windows](https://phoenixnap.com/kb/how-to-install-python-3-windows)
 
 2. There are steps to download the latest python binary in the blog, for downloading please go to the following link instead:
 
-[https://www.python.org/downloads/release/python-380/](https://www.python.org/downloads/release/python-380/)
+    [https://www.python.org/downloads/release/python-380/](https://www.python.org/downloads/release/python-380/)
 
 3. Then please download the following file:
 
