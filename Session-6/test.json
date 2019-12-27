@@ -1,0 +1,10 @@
+{ 
+    "Country": { 
+        "name": "INDIA", 
+        "languages_spoken": [ 
+            { 
+                "names": ["Hindi", "English", "Bengali", "Telugu"] 
+            } 
+        ] 
+    } 
+}
